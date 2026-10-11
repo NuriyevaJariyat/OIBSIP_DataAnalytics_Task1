@@ -1,6 +1,6 @@
 # OIBSIP Task 1 - Retail Sales EDA
 Dataset
-Source:https://www.kaggle.com/datasets/vijayuv/onlineretail
+Source:https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 A reduced sample of the original dataset was used for this project due to GitHub file size limitations.
 ## Project Overview
